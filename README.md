@@ -1,6 +1,5 @@
-->![Header](https://github.com/Kenzh0/kenzh0/blob/main/assets/Yera.gif)<-
-
-About me
+## Welcome to my page!
+I am a beginner in web development
 
 Languages and Tools
 
